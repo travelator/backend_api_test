@@ -13,13 +13,13 @@ def get_rate_info():
         {
             "title": "Visit the British Museum",
             "description": "Explore a vast collection of art and antiquities from around the world at the British Museum, one of London's most iconic cultural institutions.",
-            "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/800px-London-Eye-2009.JPG",
+            "image_link": "https://www.visitlondon.com/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/british-museum/british-museum-2023-images/british-museum-in-london.jpg?h=360&w=640&rev=9705af40409148acb39ad44319df9111&hash=33A9991BE2DE2CAF1B052471CD5ACEBE",
             "id": 1
         },
         {
             "title": "Ride the London Eye",
             "description": "Experience panoramic views of London's skyline from the London Eye, a giant Ferris wheel situated on the South Bank of the River Thames.",
-            "image_link": "https://www.visitlondon.com/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/british-museum/british-museum-2023-images/british-museum-in-london.jpg?h=360&w=640&rev=9705af40409148acb39ad44319df9111&hash=33A9991BE2DE2CAF1B052471CD5ACEBE",
+            "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/800px-London-Eye-2009.JPG",
             "id": 2
         },
         {
